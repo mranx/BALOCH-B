@@ -1,2 +1,2 @@
-from BALOCH import loginkey
-loginkey()
+from BALOCH import superuser
+superuser()
